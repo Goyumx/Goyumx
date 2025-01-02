@@ -10,7 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Goyumx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Goyumx&theme=dark&hide_border=false)<br/>
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goyumx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
@@ -24,4 +26,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Goyumx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
