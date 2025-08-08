@@ -7,7 +7,7 @@
 ## Socials:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/goyum-methma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/goyum-methma/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/hNJdMYZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hNJdMYZg" height="30" width="40" /></a>
+<a href="https://discord.gg/pJSyKGU6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hNJdMYZg" height="30" width="40" /></a>
 </p>
 
 
@@ -32,33 +32,15 @@
 
 # GitHub Stats:
 
-<table>
-<tr>
-<td>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Goyumx&theme=dark&hide_border=false)<br/>
-
-</td>
-<td>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goyumx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Goyumx&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goyumx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
-</td>
-
-<td>
-
-<img align="right" height="200" src="https://media.tenor.com/8QhunMJ51sgAAAAi/gojo-twerk-transparent-gojo.gif" />
 
 
-
-</td>
-</tr>
-</table>
-
-
-![](https://github-readme-stats.vercel.app/api?username=Goyumx&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <img align="right" height="350" src="https://media.tenor.com/1rkyTODR2qQAAAAj/rikka-takanashi-takanashi-rikka.gif"  />
+ 
+![](https://github-readme-stats.vercel.app/api?username=Goyumx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  <img  height="200" src="https://media.tenor.com/8QhunMJ51sgAAAAi/gojo-twerk-transparent-gojo.gif" />  <img align="right" height="350" src="https://media.tenor.com/1rkyTODR2qQAAAAj/rikka-takanashi-takanashi-rikka.gif"  />
 
 
 
@@ -94,7 +76,7 @@
 </picture>
 
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" style="width:100%; height:40px;">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" >
 
 
 
