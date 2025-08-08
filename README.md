@@ -6,7 +6,7 @@
 
 ## Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/goyum-methma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/goyum-methma/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/goyum-methma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/goyum-methma/" height="30" width="40" /></a>
 <a href="https://discord.gg/pJSyKGU6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hNJdMYZg" height="30" width="40" /></a>
 </p>
 
@@ -71,6 +71,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/goyumx/goyumx/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" >
 
 ---
