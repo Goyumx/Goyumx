@@ -40,11 +40,7 @@
 
 
  
-![](https://github-readme-stats.vercel.app/api?username=Goyumx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  <img  height="200" src="https://media.tenor.com/8QhunMJ51sgAAAAi/gojo-twerk-transparent-gojo.gif" />  <img align="right" height="350" src="https://media.tenor.com/1rkyTODR2qQAAAAj/rikka-takanashi-takanashi-rikka.gif"  />
-
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=Goyumx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  <img  height="170" src="https://media.tenor.com/8QhunMJ51sgAAAAi/gojo-twerk-transparent-gojo.gif" />  <img align="right" height="170" src="https://media.tenor.com/1rkyTODR2qQAAAAj/rikka-takanashi-takanashi-rikka.gif"  />
 
 
 
@@ -70,14 +66,11 @@
 [![](https://visitcount.itsvg.in/api?id=Goyumx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goyumx/goyumx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goyumx/goyumx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/goyumx/goyumx/output/pacman-contribution-graph.svg">
 </picture>
 
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" >
-
-
 
 ---
